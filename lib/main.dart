@@ -4,6 +4,7 @@ import 'package:quick_pay/MainPages/Sign_in.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:quick_pay/MainPages/homePage.dart';
 
+// This is a comment
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
