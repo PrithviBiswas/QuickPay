@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484647164564",
+    "project_id": "quickpay-6c941",
+    "storage_bucket": "quickpay-6c941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484647164564:android:6d97bc8e968650a168f281",
+        "android_client_info": {
+          "package_name": "com.example.quick_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484647164564-0hjnvm217bq1jqtj1hu5o58q1qucb54p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNCvEQzKv6n6QXOe73S908W3Wpm1u4es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484647164564-0hjnvm217bq1jqtj1hu5o58q1qucb54p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
